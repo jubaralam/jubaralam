@@ -14,6 +14,6 @@
 
 😄 Pronouns: He/Him/His
 
-<img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen" alt="Coding GIF" style="width: 80%; margin:auto;">
+<img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/" alt="Coding GIF" style="width: 80%; margin:auto;">
 
 
