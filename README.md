@@ -14,7 +14,7 @@
 
 😄 Pronouns: He/Him/His
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" style="width: 80%;">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" style="width: 100%;">
 
 
 
